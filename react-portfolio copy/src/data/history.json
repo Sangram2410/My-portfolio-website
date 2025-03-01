@@ -1,0 +1,29 @@
+[
+  {
+    "role": "TalentNext",
+    "organisation": "Wipro",
+    "startDate": "May, 2024",
+    "endDate": "Sept, 2024",
+    "experiences": ["Learned to be a full-stack java developer."],
+    "imageSrc": "https://cert.diceid.com/cid/nYmXjGnizi?verify=true"
+  },
+  {
+    "role": "SQL developer",
+    "organisation": "Courcera",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "SWE Intern",
+    "organisation": "Netflix",
+    "startDate": "Apr, 2020",
+    "endDate": "Jun, 2020",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Hybrid-k mer",
+    "imageSrc": "projects/project.png",
+    "description": "Reference free Genome Compression Algorithm using k-mer Length ",
+    "skills": ["Java", " AWS "],
+    "source": "https://github.com/Sangram2410/Hybrid_k-mer"
+  },
+  {
+    "title": "Ajio ",
+    "imageSrc": "projects/project.png",
+    "description": "It is a full stack project e-commerce website.",
+    "skills": ["React", "Express", "Node","MongoDb"],
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Dog interaction site",
+    "imageSrc": "projects/project.png",
+    "description": "This is a front-end project build for dogs interaction.",
+    "skills": ["HTML", "CSS", "Js", "bootstrap"],
+    "source": "https://github.com/Sangram2410/Dog-site"
+  }
+]
